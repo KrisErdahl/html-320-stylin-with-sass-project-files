@@ -7,3 +7,5 @@ Move the line where you import the reset file from
 
 Find the elements (styles on HTML elements like `body`, `h1`, `p`,
 etc.) and move them to the `sass/_elements.scss` file.
+
+Do not move the @media section around at this time.
