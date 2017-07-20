@@ -13,7 +13,7 @@ Do this *before* you make any changes.
 In this exercise, you'll create files for Sass to compile.
 
 ## Steps:
-
+1. Create a directory called sass
 2. Move the file `css/reset.css` to `sass/reset.scss`
 3. Move the file `css/styles.css` to `sass/styles.scss`
 
